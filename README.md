@@ -96,6 +96,7 @@ Through creating this project, I learned:
 - Enhancing **data presentation** for professional reporting and GitHub documentation.
 
 ---
+<img width="1480" height="851" alt="Screenshot 2025-10-22 235148" src="https://github.com/user-attachments/assets/e91756b6-7789-4a28-8f54-cfe3db5304bd" />
 
 ## **Conclusion**
 The **Bike Sales Analysis Dashboard** offers a detailed overview of India’s two-wheeler market, combining **price analytics**, **sales distribution**, and **brand performance**.  
